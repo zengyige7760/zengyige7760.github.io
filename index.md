@@ -1,7 +1,4 @@
-
-![](https://static.production.xjoi.net/images/emoticon-1.gif)
-
-![](https://www.mcmod.cn/pages/tools/achievements/images/achievements/0_rzGUbEoz.png)
+###### 我是曾一格
 
 ![](https://api.xecades.xyz/api?img=3&date=2025-8-29&str=%E6%88%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%94%9F%E6%97%A5&quote=%E7%A5%9D%E6%82%A8+AKIOI&email=15268384229%40163.com&&github=zengyige7760&&luogu=zengyige7760&codeforces=zengyige7760)
 ![](https://api.xecades.xyz/api?img=1&color=20%2C216%2C238%2C1&bg=231%2C242%2C112%2C0
@@ -52,35 +49,12 @@
 
 
 ![](https://i.loli.net/2018/11/04/5bde67b2ce058.gif)
-### 一些
-# ~~有趣~~
-## 的东西
-# [Ha](https://www.luogu.com.cn/paste/pxnuooam)
-# [HaHa](http://lvmaojun.com/huaji/)
-# [HaHaHa](https://cdn.luogu.com.cn/upload/pic/16214.png)
-# [HaHaHaHa](https://www.luogu.com.cn/paste/w41dul1f)
-# [HaHaHaHaHa](https://www.luogu.com.cn/paste/3p38nqys)
-# [HaHaHaHaHaHa](https://www.luogu.com.cn/paste/9bwfgphz)
-# [HaHaHaHaHaHaHa](https://www.luogu.com.cn/paste/6frket2c)
-## [$\color{red}\Huge\text{笔记，含模板整理}$](https://www.luogu.com.cn/blog/577628/notes)
-#### [$\Huge\text{一些网址}$](https://www.luogu.com.cn/article/9lafd657)
-#### [$\Huge\text{快来抢题解}$](https://www.luogu.com.cn/problem/U306566)
-##### [$\Huge{上个链接的简化版}$](https://www.luogu.com.cn/training/380771)
 
-众所周知一个主页需要亿张头图，但是我的太大了所以没放。
 
-chatGPT：
-<https://chat.aidutu.cn/>,
-<https://hzdjs.cn/chatgpt/>,
-<https://new.xn--ihqz33huqas17e0lh.xyz/chatgpt/>,
-<http://mm1.ltd/>,
-<https://ah4t.aiask7.com/c.html>
-
-[![](https://cdn.luogu.com.cn/upload/usericon/577628.png?x-oss-process=image/rounded-corners,r_30)](https://www.luogu.com.cn/user/577628)[![](https://cdn.luogu.com.cn/upload/usericon/368106.png?x-oss-process=image/rounded-corners,r_30)](https://www.luogu.com.cn/user/368106)[![](https://cdn.luogu.com.cn/upload/usericon/506024.png?x-oss-process=image/rounded-corners,r_30)](https://www.luogu.com.cn/user/506024)[![](https://cdn.luogu.com.cn/upload/usericon/509196.png?x-oss-process=image/rounded-corners,r_30)](https://www.luogu.com.cn/user/509196)[![](https://cdn.luogu.com.cn/upload/usericon/538275.png?x-oss-process=image/rounded-corners,r_30)](https://www.luogu.com.cn/user/538275)[![](https://cdn.luogu.com.cn/upload/usericon/500297.png?x-oss-process=image/rounded-corners,r_30)](https://www.luogu.com.cn/user/500297)[![](https://cdn.luogu.com.cn/upload/usericon/645010.png?x-oss-process=image/rounded-corners,r_30)](https://www.luogu.com.cn/user/645010)[![](https://cdn.luogu.com.cn/upload/usericon/502483.png?x-oss-process=image/rounded-corners,r_30)](https://www.luogu.com.cn/user/502483)[![](https://cdn.luogu.com.cn/upload/usericon/20562.png?x-oss-process=image/rounded-corners,r_30)](https://www.luogu.com.cn/user/20562)[![](https://cdn.luogu.com.cn/upload/usericon/971543.png?x-oss-process=image/rounded-corners,r_30)](https://www.luogu.com.cn/user/971543)
 ## [OI Wiki](https://oi-wiki.org/)
-### 数据千万条，清空第一条。
-### 多测不清空，爆零两行泪。
-### 清空不规范，超时总相伴。
+### 道路千万条，安全第一条。
+### 行车不规范，亲人....
+### 别叫了，再叫都得死。
 [实景地图](https://www.earthol.org)
 
 
@@ -90,8 +64,7 @@ chatGPT：
 [UKE神贴](https://www.luogu.com.cn/discuss/61884)
 
 
-# 看了那么久，加个关注捏（壶关壶关~）
-## （本蒟蒻太蒻，望各位神犇包容qwq）
+
 ![](https://fecdn.luogu.com.cn/luogu/ac-congrats.png?ce96b99faabe0d91e25e00917ef494af)
 
 [nazo攻略](https://www.cnblogs.com/ccr-note/articles/nazo.html)
