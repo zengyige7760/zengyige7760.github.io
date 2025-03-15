@@ -1,10 +1,10 @@
 ###### 我是曾一格
-
+********我真是zengyige********
 ![](https://api.xecades.xyz/api?img=3&date=2025-8-29&str=%E6%88%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%94%9F%E6%97%A5&quote=%E7%A5%9D%E6%82%A8+AKIOI&email=15268384229%40163.com&&github=zengyige7760&&luogu=zengyige7760&codeforces=zengyige7760)
 ![](https://api.xecades.xyz/api?img=1&color=20%2C216%2C238%2C1&bg=231%2C242%2C112%2C0
 )
 **你是第**
-![](https://moe-counter.glitch.me/get/@linmuhan?theme=rule34)**拜访我的寒舍的人**
+![](https://moe-counter.glitch.me/get/@zengyige7760?theme=rule34)**拜访我的寒舍的人**
 ###### 本人为一只
 # 巨大的
 ## 蒟蒻
