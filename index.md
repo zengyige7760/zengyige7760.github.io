@@ -8,7 +8,7 @@
 
 2.[贪吃蛇小游戏](https://zengyige7760.github.io/tanchishe)
 
-3.[2048小游戏](https://zengyige7760.github.io/2048)
+3. [2048小游戏](https://zengyige7760.github.io/2048)
 
 4[扫雷小游戏](https://zengyige7760.github.io/saolei)
 
