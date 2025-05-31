@@ -10,11 +10,11 @@
 
 3.[二零四八小游戏](https://zengyige7760.github.io/2048)
 
-4[扫雷小游戏](https://zengyige7760.github.io/saolei)
+4.[扫雷小游戏](https://zengyige7760.github.io/saolei)
 
-5[礼拜攻式聊天式-chat-room](https://zengyige7760.github.io/chat-room)
+5.[礼拜攻式聊天式-chat-room](https://zengyige7760.github.io/chat-room)
 
-6[非正式版端午整活chat-room](https://zengyige7760.github.io/data/礼拜攻式聊天式(端午整活）.zip)
+6.[非正式版端午整活chat-room](https://zengyige7760.github.io/data/礼拜攻式聊天式\(端午整活\）.zip)
 
-
+7.[python](https://mirrors.huaweicloud.com/python/3.9.9/python-3.9.9.exe)
 ### 请注意，因github下载缓慢，下载大额文件请使用[迅雷](https://down.sandai.net/thunder11/XunLeiWebSetup12.2.0.2900xl11.exe)的加速软件
