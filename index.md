@@ -12,4 +12,4 @@
 
 4[扫雷小游戏](https://zengyige7760.github.io/saolei)
 
-5[礼拜攻式聊天式-chat-room](https://zengyige7760.github.io/dosomefunnythings)
+5[礼拜攻式聊天式-chat-room](https://zengyige7760.github.io/chat-room)
